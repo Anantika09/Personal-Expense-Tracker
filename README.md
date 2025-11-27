@@ -1,1 +1,1 @@
-# Personal-Expense-Tracker
+Personal Expense Tracker - A Python-based financial application that helps users monitor their spending habits through expense logging, category-wise analysis, monthly reports, and interactive data visualizations, with secure SQLite database storage for all financial data.
